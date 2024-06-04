@@ -1,0 +1,15 @@
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaTestTwo\bin\Debug\net6.0\GachaTestTwo.exe
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaTestTwo\bin\Debug\net6.0\GachaTestTwo.deps.json
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaTestTwo\bin\Debug\net6.0\GachaTestTwo.runtimeconfig.json
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaTestTwo\bin\Debug\net6.0\GachaTestTwo.dll
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaTestTwo\bin\Debug\net6.0\GachaTestTwo.pdb
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaTestTwo\obj\Debug\net6.0\GachaTestTwo.csproj.AssemblyReference.cache
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaTestTwo\obj\Debug\net6.0\GachaTestTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaTestTwo\obj\Debug\net6.0\GachaTestTwo.AssemblyInfoInputs.cache
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaTestTwo\obj\Debug\net6.0\GachaTestTwo.AssemblyInfo.cs
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaTestTwo\obj\Debug\net6.0\GachaTestTwo.csproj.CoreCompileInputs.cache
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaTestTwo\obj\Debug\net6.0\GachaTestTwo.dll
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaTestTwo\obj\Debug\net6.0\refint\GachaTestTwo.dll
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaTestTwo\obj\Debug\net6.0\GachaTestTwo.pdb
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaTestTwo\obj\Debug\net6.0\GachaTestTwo.genruntimeconfig.cache
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaTestTwo\obj\Debug\net6.0\ref\GachaTestTwo.dll

@@ -1,0 +1,12 @@
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\Coding_Exercise\obj\Debug\net6.0\Coding_Exercise.csproj.AssemblyReference.cache
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\Coding_Exercise\obj\Debug\net6.0\Coding_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\Coding_Exercise\obj\Debug\net6.0\Coding_Exercise.AssemblyInfoInputs.cache
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\Coding_Exercise\obj\Debug\net6.0\Coding_Exercise.AssemblyInfo.cs
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\Coding_Exercise\obj\Debug\net6.0\Coding_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\Coding_Exercise\bin\Debug\net6.0\Coding_Exercise.deps.json
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\Coding_Exercise\bin\Debug\net6.0\Coding_Exercise.dll
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\Coding_Exercise\bin\Debug\net6.0\Coding_Exercise.pdb
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\Coding_Exercise\obj\Debug\net6.0\Coding_Exercise.dll
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\Coding_Exercise\obj\Debug\net6.0\refint\Coding_Exercise.dll
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\Coding_Exercise\obj\Debug\net6.0\Coding_Exercise.pdb
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\Coding_Exercise\obj\Debug\net6.0\ref\Coding_Exercise.dll

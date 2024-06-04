@@ -1,0 +1,15 @@
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaGameTest\bin\Debug\net6.0\GachaGameTest.exe
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaGameTest\bin\Debug\net6.0\GachaGameTest.deps.json
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaGameTest\bin\Debug\net6.0\GachaGameTest.runtimeconfig.json
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaGameTest\bin\Debug\net6.0\GachaGameTest.dll
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaGameTest\bin\Debug\net6.0\GachaGameTest.pdb
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaGameTest\obj\Debug\net6.0\GachaGameTest.csproj.AssemblyReference.cache
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaGameTest\obj\Debug\net6.0\GachaGameTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaGameTest\obj\Debug\net6.0\GachaGameTest.AssemblyInfoInputs.cache
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaGameTest\obj\Debug\net6.0\GachaGameTest.AssemblyInfo.cs
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaGameTest\obj\Debug\net6.0\GachaGameTest.csproj.CoreCompileInputs.cache
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaGameTest\obj\Debug\net6.0\GachaGameTest.dll
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaGameTest\obj\Debug\net6.0\refint\GachaGameTest.dll
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaGameTest\obj\Debug\net6.0\GachaGameTest.pdb
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaGameTest\obj\Debug\net6.0\GachaGameTest.genruntimeconfig.cache
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\gacha\GachaGameTest\obj\Debug\net6.0\ref\GachaGameTest.dll

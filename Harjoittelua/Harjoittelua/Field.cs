@@ -8,5 +8,6 @@ namespace Harjoittelua
 {
     internal class Field
     {
+
     }
 }

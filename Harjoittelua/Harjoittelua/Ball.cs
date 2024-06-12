@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Harjoittelua
 {
+    // the properties of the soccer ball
     public class Ball
     {
         int ballHp = 100;

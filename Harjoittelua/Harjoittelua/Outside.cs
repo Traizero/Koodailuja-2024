@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Harjoittelua
 {
-    internal class Goal
+    // balls in here can be considered banished from the game. They will not return. 
+    internal class Outside
     {
-
     }
 }

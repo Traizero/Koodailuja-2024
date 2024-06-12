@@ -9,7 +9,8 @@ namespace Harjoittelua
     // holds all the balls (list)
     public class Storage
     {
-        List<Ball> ball = new List<Ball>();
+        List<Ball> balls = new List<Ball>();
+        public Storage() { }
     }
 
     //internal Ball GetBall()
@@ -18,7 +19,7 @@ namespace Harjoittelua
     //    cards.Remove(card);
     //    return card;
     //}
-
+    s
     //public Storage (List<Ball> balls)
     //{
     //    this.balls = balls;

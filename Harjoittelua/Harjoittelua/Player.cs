@@ -19,10 +19,12 @@ namespace Harjoittelua
         Player player { get; set; }
         int playerSPD = 100;
         int playerAcc = 30;
+        int playerStamina = 100;
+        bool playerHasBall = false;
 
         public void addBall(Ball ball)
         {
-            ball.Add(ball);
+            storage.balls.Add(ball);
             Console.WriteLine("Player got a ball!");
         }
 
@@ -31,7 +33,11 @@ namespace Harjoittelua
         //handles the play logic
         internal void playBall()
         {
+            if playerStamina == 0 ||  ;
 
+                {
+
+                }
 
             //Ball newBall = ball.getBall();
             //player.Add(newBall);

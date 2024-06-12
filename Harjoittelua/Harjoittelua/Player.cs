@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.Design;
 using System.Linq;
 using System.Numerics;
 using System.Text;
@@ -26,6 +27,7 @@ namespace Harjoittelua
         {
             storage.balls.Add(ball);
             Console.WriteLine("Player got a ball!");
+            playerHasBall = true;
         }
 
 
@@ -33,11 +35,22 @@ namespace Harjoittelua
         //handles the play logic
         internal void playBall()
         {
-            if playerStamina == 0 ||  ;
+            if (playerHasBall = true || playerStamina == 0 );
+
+                {
+                   
+                }
+
+            else if
 
                 {
 
                 }
+
+            
+
+
+        
 
             //Ball newBall = ball.getBall();
             //player.Add(newBall);

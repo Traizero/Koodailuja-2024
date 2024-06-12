@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Harjoittelua
 {
+    // field can have balls
     internal class Field
     {
 

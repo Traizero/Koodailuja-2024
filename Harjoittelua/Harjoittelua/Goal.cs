@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Harjoittelua
 {
+    // when you kick ball to the goal
     internal class Goal
     {
 

@@ -10,8 +10,13 @@ namespace Harjoittelua
     public class Storage
     {
         List<Ball> balls = new List<Ball>();
-        public Storage() { }
+        
     }
+
+    //public Storage()
+    //{
+
+    //}
 
     //internal Ball GetBall()
     //{
@@ -19,7 +24,7 @@ namespace Harjoittelua
     //    cards.Remove(card);
     //    return card;
     //}
-    s
+    
     //public Storage (List<Ball> balls)
     //{
     //    this.balls = balls;

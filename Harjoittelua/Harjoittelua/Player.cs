@@ -44,7 +44,7 @@ namespace Harjoittelua
             else if (playerHasBall = false || playerstamina =< 0) 
 
             {
-                    
+                    //
             }
 
             else

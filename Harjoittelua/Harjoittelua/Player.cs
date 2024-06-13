@@ -35,17 +35,28 @@ namespace Harjoittelua
         //handles the play logic
         internal void playBall()
         {
-            if (playerHasBall = true || playerStamina == 0 );
+            if (playerHasBall = true || playerStamina => 0 )
 
-                {
-                   
-                }
+            {
+                Console.WriteLine("Player kicked the ball!");
+            }
 
-            else if
+            else if (playerHasBall = false || playerstamina =< 0) 
 
-                {
+            {
+                    
+            }
 
-                }
+            else
+            {
+                Console.WriteLine("Debug error! Does not work!");
+            }
+
+            //else if
+
+            //    {
+
+            //    }
 
             
 

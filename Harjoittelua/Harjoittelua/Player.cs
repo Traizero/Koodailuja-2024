@@ -25,7 +25,7 @@ namespace Harjoittelua
 
         public void addBall(Ball ball)
         {
-            storage.balls.Add(ball);
+            //storage.balls.Add(ball);
             Console.WriteLine("Player got a ball!");
             playerHasBall = true;
         }
@@ -35,22 +35,22 @@ namespace Harjoittelua
         //handles the play logic
         internal void playBall()
         {
-            if (playerHasBall = true || playerStamina => 0 )
+            if (playerHasBall = true || playerStamina > 0)
 
             {
                 Console.WriteLine("Player kicked the ball!");
             }
 
-            else if (playerHasBall = false || playerstamina =< 0) 
+            //else if (playerHasBall = false || playerstamina =< 0) 
 
-            {
+            //{
                     //
                     
 
-            else
-            {
-                Console.WriteLine("Debug error! Does not work!");
-            }
+            //else
+            //{
+            //    Console.WriteLine("Debug error! Does not work!");
+            //}
 
             //else if
 

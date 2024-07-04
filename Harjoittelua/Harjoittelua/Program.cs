@@ -6,13 +6,23 @@ namespace Harjoittelua
     public class Game
     {
         public int hp = 200;
+        
 
         //handles the program here
 
 
         //for  (int i = 0; i< 10; i++;)
 
-           // {
+        // {
+
+        public void gameLogic()
+            {
+            Player.addBall();
+            Player.playBall();
+
+
+
+            }
             
             //}
             //ba

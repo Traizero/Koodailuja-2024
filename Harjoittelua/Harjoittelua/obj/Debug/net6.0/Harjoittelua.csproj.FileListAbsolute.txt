@@ -1,0 +1,15 @@
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\Harjoittelua\Harjoittelua\bin\Debug\net6.0\Harjoittelua.exe
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\Harjoittelua\Harjoittelua\bin\Debug\net6.0\Harjoittelua.deps.json
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\Harjoittelua\Harjoittelua\bin\Debug\net6.0\Harjoittelua.runtimeconfig.json
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\Harjoittelua\Harjoittelua\bin\Debug\net6.0\Harjoittelua.dll
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\Harjoittelua\Harjoittelua\bin\Debug\net6.0\Harjoittelua.pdb
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\Harjoittelua\Harjoittelua\obj\Debug\net6.0\Harjoittelua.csproj.AssemblyReference.cache
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\Harjoittelua\Harjoittelua\obj\Debug\net6.0\Harjoittelua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\Harjoittelua\Harjoittelua\obj\Debug\net6.0\Harjoittelua.AssemblyInfoInputs.cache
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\Harjoittelua\Harjoittelua\obj\Debug\net6.0\Harjoittelua.AssemblyInfo.cs
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\Harjoittelua\Harjoittelua\obj\Debug\net6.0\Harjoittelua.csproj.CoreCompileInputs.cache
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\Harjoittelua\Harjoittelua\obj\Debug\net6.0\Harjoittelua.dll
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\Harjoittelua\Harjoittelua\obj\Debug\net6.0\refint\Harjoittelua.dll
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\Harjoittelua\Harjoittelua\obj\Debug\net6.0\Harjoittelua.pdb
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\Harjoittelua\Harjoittelua\obj\Debug\net6.0\Harjoittelua.genruntimeconfig.cache
+C:\Users\MarkusSil\Downloads\Koodailuja huhtikuu 2024\Harjoittelua\Harjoittelua\obj\Debug\net6.0\ref\Harjoittelua.dll

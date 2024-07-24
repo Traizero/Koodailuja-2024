@@ -10,5 +10,6 @@ namespace Harjoittelua
     internal class Goal
     {
 
+
     }
 }
